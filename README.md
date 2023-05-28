@@ -27,3 +27,7 @@ Zorkii передали 259.22ТБ
 Переходите и пробуйте:
 
 https://colab.research.google.com/drive/1z_KSM4KUoXQwpDFHVTxUWJIh4GImmNO3?usp=sharing
+
+
+
+В файле Demo_NeuroSpase.ipynb содердится код демонстрационной версии прграммы ф формате  Jupyter Notebook.
